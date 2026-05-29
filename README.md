@@ -27,7 +27,7 @@ v0.0.0-haruki-pbv0.36.9
 
 使用组织 PocketTogether 再创建新仓库，不选择fork而是直接用文件创建，因为 pocketbase/pocketbase 其实有点问题，它的git有点大，将近200MB
 - https://github.com/haruki1953/pocketbase
-- https://github.com/PocketTogether/pocketbase
+- https://github.com/PocketTogether/pocket-base
 
 正式发布将用于PocketTogether旗下项目的pocketbase
 ```
